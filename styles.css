@@ -1,0 +1,44 @@
+/* styles.css */
+
+/* Réglages pour le contrôle des polices et du texte */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+/* Espacement pour les en-têtes */
+.mb-4 {
+    margin-bottom: 1.5rem;
+}
+
+/* Espacement générique */
+.my-4 {
+    margin: 2rem 0;
+}
+
+/* Tableaux */
+.table {
+    margin-bottom: 1.5rem;
+    border: 1px solid #dee2e6;
+}
+.table th {
+    background-color: #f8f9fa;
+}
+.table td {
+    border: 1px solid #dee2e6;
+}
+
+/* Personnalisation des graphiques */
+.graph-title {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
